@@ -1,3 +1,3 @@
 class Bar {
-    static int i
+    static int meow
 }
